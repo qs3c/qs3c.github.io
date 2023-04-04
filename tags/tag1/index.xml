@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>tag1 on Happy Game</title>
+        <link>https://qs3c.github.io/tags/tag1/</link>
+        <description>Recent content in tag1 on Happy Game</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <lastBuildDate>Sun, 02 Apr 2023 10:38:39 +0800</lastBuildDate><atom:link href="https://qs3c.github.io/tags/tag1/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Demo</title>
+        <link>https://qs3c.github.io/p/demo/</link>
+        <pubDate>Sun, 02 Apr 2023 10:38:39 +0800</pubDate>
+        
+        <guid>https://qs3c.github.io/p/demo/</guid>
+        <description>&lt;h2 id=&#34;你好&#34;&gt;你好&lt;/h2&gt;
+&lt;p&gt;内容&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>
